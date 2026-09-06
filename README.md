@@ -6,7 +6,7 @@ calling, scoped to exactly what the signed-in user is allowed to see. Built
 for the ZafinOS Product Engineer take-home assignment.
 
 **Architecture diagram:** [`docs/architecture.md`](docs/architecture.md)
-**Demo video:** _add your link here before submitting_
+**Demo video:** https://drive.google.com/file/d/1ETrPDQ_v7Hpn1VkEPQWFLtEA9ELcfywk/view?usp=sharing 
 
 ---
 
