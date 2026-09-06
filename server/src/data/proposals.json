@@ -1,0 +1,244 @@
+{
+  "proposals": [
+    {
+      "id": "PRP-301",
+      "name": "Austin deposit pricing — v3",
+      "opportunity_id": "OPP-201",
+      "account_id": "ACC-101",
+      "owner_id": "USR-PRIYA",
+      "status": "In review",
+      "amount": 180000,
+      "submitted_date": "2026-08-04"
+    },
+    {
+      "id": "PRP-302",
+      "name": "Austin fee engine — draft",
+      "opportunity_id": "OPP-202",
+      "account_id": "ACC-101",
+      "owner_id": "USR-PRIYA",
+      "status": "Draft",
+      "amount": 95000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-303",
+      "name": "Lakeshore core fees — signed",
+      "opportunity_id": "OPP-204",
+      "account_id": "ACC-102",
+      "owner_id": "USR-PRIYA",
+      "status": "Accepted",
+      "amount": 110000,
+      "submitted_date": "2026-05-19"
+    },
+    {
+      "id": "PRP-304",
+      "name": "Redwood overdraft — submitted",
+      "opportunity_id": "OPP-206",
+      "account_id": "ACC-103",
+      "owner_id": "USR-PRIYA",
+      "status": "Submitted",
+      "amount": 88000,
+      "submitted_date": "2026-08-11"
+    },
+    {
+      "id": "PRP-305",
+      "name": "Pioneer mortgage rates — v2",
+      "opportunity_id": "OPP-207",
+      "account_id": "ACC-104",
+      "owner_id": "USR-PRIYA",
+      "status": "In review",
+      "amount": 140000,
+      "submitted_date": "2026-07-28"
+    },
+    {
+      "id": "PRP-306",
+      "name": "Pioneer digital fees — declined",
+      "opportunity_id": "OPP-208",
+      "account_id": "ACC-104",
+      "owner_id": "USR-PRIYA",
+      "status": "Declined",
+      "amount": 60000,
+      "submitted_date": "2026-04-02"
+    },
+    {
+      "id": "PRP-307",
+      "name": "Summit branch bundles — draft",
+      "opportunity_id": "OPP-211",
+      "account_id": "ACC-106",
+      "owner_id": "USR-PRIYA",
+      "status": "Draft",
+      "amount": 69000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-308",
+      "name": "Harbor wealth pricing — v4",
+      "opportunity_id": "OPP-213",
+      "account_id": "ACC-107",
+      "owner_id": "USR-JORDAN",
+      "status": "In review",
+      "amount": 310000,
+      "submitted_date": "2026-08-08"
+    },
+    {
+      "id": "PRP-309",
+      "name": "Harbor trust fees — submitted",
+      "opportunity_id": "OPP-214",
+      "account_id": "ACC-107",
+      "owner_id": "USR-JORDAN",
+      "status": "Submitted",
+      "amount": 155000,
+      "submitted_date": "2026-08-15"
+    },
+    {
+      "id": "PRP-310",
+      "name": "Midwest ACH — signed",
+      "opportunity_id": "OPP-216",
+      "account_id": "ACC-108",
+      "owner_id": "USR-JORDAN",
+      "status": "Accepted",
+      "amount": 98000,
+      "submitted_date": "2026-03-21"
+    },
+    {
+      "id": "PRP-311",
+      "name": "Cascade auto-loan engine — draft",
+      "opportunity_id": "OPP-218",
+      "account_id": "ACC-109",
+      "owner_id": "USR-JORDAN",
+      "status": "Draft",
+      "amount": 175000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-312",
+      "name": "Iron Range share-draft — v2",
+      "opportunity_id": "OPP-219",
+      "account_id": "ACC-110",
+      "owner_id": "USR-JORDAN",
+      "status": "In review",
+      "amount": 82000,
+      "submitted_date": "2026-07-30"
+    },
+    {
+      "id": "PRP-313",
+      "name": "Desert Sage ag lending — submitted",
+      "opportunity_id": "OPP-223",
+      "account_id": "ACC-112",
+      "owner_id": "USR-JORDAN",
+      "status": "Submitted",
+      "amount": 99000,
+      "submitted_date": "2026-08-19"
+    },
+    {
+      "id": "PRP-314",
+      "name": "Northline enterprise workspace — v2",
+      "opportunity_id": "OPP-225",
+      "account_id": "ACC-113",
+      "owner_id": "USR-MARCUS",
+      "status": "In review",
+      "amount": 420000,
+      "submitted_date": "2026-07-22"
+    },
+    {
+      "id": "PRP-315",
+      "name": "Capital Ridge disclosures — draft",
+      "opportunity_id": "OPP-227",
+      "account_id": "ACC-114",
+      "owner_id": "USR-MARCUS",
+      "status": "Draft",
+      "amount": 150000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-316",
+      "name": "Capital Ridge student checking — signed",
+      "opportunity_id": "OPP-228",
+      "account_id": "ACC-114",
+      "owner_id": "USR-MARCUS",
+      "status": "Accepted",
+      "amount": 76000,
+      "submitted_date": "2026-06-18"
+    },
+    {
+      "id": "PRP-317",
+      "name": "Meridian national deposits — v5",
+      "opportunity_id": "OPP-230",
+      "account_id": "ACC-116",
+      "owner_id": "USR-AVA",
+      "status": "In review",
+      "amount": 860000,
+      "submitted_date": "2026-08-01"
+    },
+    {
+      "id": "PRP-318",
+      "name": "Meridian cards suite — draft",
+      "opportunity_id": "OPP-231",
+      "account_id": "ACC-116",
+      "owner_id": "USR-AVA",
+      "status": "Draft",
+      "amount": 540000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-319",
+      "name": "Riverbend core — v2",
+      "opportunity_id": "OPP-233",
+      "account_id": "ACC-117",
+      "owner_id": "USR-ELENA",
+      "status": "In review",
+      "amount": 390000,
+      "submitted_date": "2026-08-06"
+    },
+    {
+      "id": "PRP-320",
+      "name": "Atlantic treasury — draft",
+      "opportunity_id": "OPP-235",
+      "account_id": "ACC-118",
+      "owner_id": "USR-ELENA",
+      "status": "Draft",
+      "amount": 205000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-321",
+      "name": "Twin Ports share-draft — submitted",
+      "opportunity_id": "OPP-237",
+      "account_id": "ACC-119",
+      "owner_id": "USR-SAM",
+      "status": "Submitted",
+      "amount": 145000,
+      "submitted_date": "2026-08-14"
+    },
+    {
+      "id": "PRP-322",
+      "name": "Blue Ridge HELOC — draft",
+      "opportunity_id": "OPP-239",
+      "account_id": "ACC-120",
+      "owner_id": "USR-SAM",
+      "status": "Draft",
+      "amount": 88000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-323",
+      "name": "Cypress checking — draft",
+      "opportunity_id": "OPP-241",
+      "account_id": "ACC-121",
+      "owner_id": "USR-RILEY",
+      "status": "Draft",
+      "amount": 167000,
+      "submitted_date": null
+    },
+    {
+      "id": "PRP-324",
+      "name": "Metro SB bundle — v2",
+      "opportunity_id": "OPP-243",
+      "account_id": "ACC-122",
+      "owner_id": "USR-RILEY",
+      "status": "In review",
+      "amount": 198000,
+      "submitted_date": "2026-07-29"
+    }
+  ]
+}

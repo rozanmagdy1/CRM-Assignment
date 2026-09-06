@@ -1,0 +1,20 @@
+{
+  "name": "zafinos-crm-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/lib/seed.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.21.0",
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0"
+  }
+}

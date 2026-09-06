@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "USR-AVA",
+      "email": "ava@example.com",
+      "password": "admin123",
+      "first_name": "Ava",
+      "last_name": "Chen",
+      "role": "admin",
+      "manager_id": null
+    },
+    {
+      "id": "USR-MARCUS",
+      "email": "marcus@example.com",
+      "password": "manager123",
+      "first_name": "Marcus",
+      "last_name": "Hale",
+      "role": "manager",
+      "manager_id": null
+    },
+    {
+      "id": "USR-ELENA",
+      "email": "elena@example.com",
+      "password": "manager123",
+      "first_name": "Elena",
+      "last_name": "Voss",
+      "role": "manager",
+      "manager_id": null
+    },
+    {
+      "id": "USR-PRIYA",
+      "email": "priya@example.com",
+      "password": "rep123",
+      "first_name": "Priya",
+      "last_name": "Shah",
+      "role": "rep",
+      "manager_id": "USR-MARCUS"
+    },
+    {
+      "id": "USR-JORDAN",
+      "email": "jordan@example.com",
+      "password": "rep123",
+      "first_name": "Jordan",
+      "last_name": "Lee",
+      "role": "rep",
+      "manager_id": "USR-MARCUS"
+    },
+    {
+      "id": "USR-SAM",
+      "email": "sam@example.com",
+      "password": "rep123",
+      "first_name": "Sam",
+      "last_name": "Okonkwo",
+      "role": "rep",
+      "manager_id": "USR-ELENA"
+    },
+    {
+      "id": "USR-RILEY",
+      "email": "riley@example.com",
+      "password": "rep123",
+      "first_name": "Riley",
+      "last_name": "Cho",
+      "role": "rep",
+      "manager_id": "USR-ELENA"
+    }
+  ]
+}

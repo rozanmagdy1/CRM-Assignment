@@ -1,0 +1,63 @@
+:root {
+  --ink: #14213a;
+  --ink-soft: #4b5876;
+  --paper: #f6f7fb;
+  --panel: #ffffff;
+  --line: #dde1ec;
+  --accent: #0f5fd6;
+  --accent-soft: #e9f0fe;
+  --good: #1a7f5a;
+  --warn: #b45309;
+  --bad: #c0392b;
+  --radius: 8px;
+  font-family: 'IBM Plex Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 14px;
+}
+
+a { color: var(--accent); }
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+input, select, textarea, button {
+  font-family: inherit;
+  font-size: 14px;
+}
+
+.mono {
+  font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 12.5px;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  font-weight: 600;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.pill-open { background: var(--accent-soft); color: var(--accent); border-color: #c9dcfb; }
+.pill-won { background: #e7f6ef; color: var(--good); border-color: #bfe8d3; }
+.pill-lost { background: #fbeceb; color: var(--bad); border-color: #f3c9c6; }
+
+.scroll-y { overflow-y: auto; }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #ccd2e2; border-radius: 8px; }
+::-webkit-scrollbar-track { background: transparent; }

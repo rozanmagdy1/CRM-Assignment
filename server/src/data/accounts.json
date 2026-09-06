@@ -1,0 +1,158 @@
+{
+  "accounts": [
+    {
+      "id": "ACC-101",
+      "name": "First National Bank of Austin",
+      "industry": "Retail banking",
+      "region": "South",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-102",
+      "name": "Lakeshore Credit Union",
+      "industry": "Credit union",
+      "region": "Midwest",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-103",
+      "name": "Redwood Community Bank",
+      "industry": "Community banking",
+      "region": "West",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-104",
+      "name": "Pioneer Federal",
+      "industry": "Retail banking",
+      "region": "West",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-105",
+      "name": "Gulf Coast Bancorp",
+      "industry": "Regional bank",
+      "region": "South",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-106",
+      "name": "Summit Valley Bank",
+      "industry": "Community banking",
+      "region": "West",
+      "owner_id": "USR-PRIYA"
+    },
+    {
+      "id": "ACC-107",
+      "name": "Harbor Trust",
+      "industry": "Private banking",
+      "region": "Northeast",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-108",
+      "name": "Midwest Heritage Bank",
+      "industry": "Regional bank",
+      "region": "Midwest",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-109",
+      "name": "Cascade Mutual",
+      "industry": "Credit union",
+      "region": "West",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-110",
+      "name": "Iron Range Credit Union",
+      "industry": "Credit union",
+      "region": "Midwest",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-111",
+      "name": "Palmetto State Bank",
+      "industry": "Retail banking",
+      "region": "South",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-112",
+      "name": "Desert Sage Bank",
+      "industry": "Community banking",
+      "region": "West",
+      "owner_id": "USR-JORDAN"
+    },
+    {
+      "id": "ACC-113",
+      "name": "Northline Financial",
+      "industry": "Regional bank",
+      "region": "Northeast",
+      "owner_id": "USR-MARCUS"
+    },
+    {
+      "id": "ACC-114",
+      "name": "Capital Ridge Bank",
+      "industry": "Retail banking",
+      "region": "Northeast",
+      "owner_id": "USR-MARCUS"
+    },
+    {
+      "id": "ACC-115",
+      "name": "Great Lakes Reserve",
+      "industry": "Credit union",
+      "region": "Midwest",
+      "owner_id": "USR-MARCUS"
+    },
+    {
+      "id": "ACC-116",
+      "name": "Meridian National Bank",
+      "industry": "National bank",
+      "region": "Northeast",
+      "owner_id": "USR-AVA"
+    },
+    {
+      "id": "ACC-117",
+      "name": "Riverbend Mutual",
+      "industry": "Credit union",
+      "region": "Midwest",
+      "owner_id": "USR-ELENA"
+    },
+    {
+      "id": "ACC-118",
+      "name": "Atlantic Charter Bank",
+      "industry": "Regional bank",
+      "region": "Northeast",
+      "owner_id": "USR-ELENA"
+    },
+    {
+      "id": "ACC-119",
+      "name": "Twin Ports Credit Union",
+      "industry": "Credit union",
+      "region": "Midwest",
+      "owner_id": "USR-SAM"
+    },
+    {
+      "id": "ACC-120",
+      "name": "Blue Ridge Savings",
+      "industry": "Community banking",
+      "region": "South",
+      "owner_id": "USR-SAM"
+    },
+    {
+      "id": "ACC-121",
+      "name": "Cypress Grove Bank",
+      "industry": "Retail banking",
+      "region": "South",
+      "owner_id": "USR-RILEY"
+    },
+    {
+      "id": "ACC-122",
+      "name": "Metro Commons Bank",
+      "industry": "Community banking",
+      "region": "West",
+      "owner_id": "USR-RILEY"
+    }
+  ]
+}
